@@ -27,7 +27,7 @@ on:
     branches: iso_automation 
 
 jobs:
-  build:
+  syncronize_repos:
     runs-on: ubuntu-latest
     steps:
       - name: GitHub Sync to Upstream Repository
