@@ -10,10 +10,6 @@ env:
   DOWNSTREAM_BRANCH: "master"
   # Optional fetch arguments
   FETCH_ARGS: ""
-  # Optional merge arguments
-  MERGE_ARGS: ""
-  # Optional push arguments
-  PUSH_ARGS: ""
   # Optional toggle to spawn time logs (keeps action active) 
   SPAWN_LOGS: "false" # "true" or "false"
 
@@ -31,13 +27,11 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: GitHub Sync to Upstream Repository
-        uses: dabreadman/sync-upstream-repo@v1.3.0
+        uses: simonsso/sync-upstream-repo@dev
         with: 
           upstream_repo: ${{ env.UPSTREAM_URL }}
           upstream_branch: ${{ env.UPSTREAM_BRANCH }}
           downstream_branch: ${{ env.DOWNSTREAM_BRANCH }}
           token: ${{ secrets.GITHUB_TOKEN }} 
           fetch_args: ${{ env.FETCH_ARGS }}
-          merge_args: ${{ env.MERGE_ARGS }}
-          push_args: ${{ env.PUSH_ARGS }}
-          spawn_logs: ${{ env.SPAWN_LOGS }}
+          push_args: "--force"
