@@ -4,10 +4,10 @@
         "supported": false,
         "healthy_error": null,
         "location": "/__w/charts/charts/community/passbolt/1.2.12",
-        "last_update": "2024-10-10 13:20:10",
+        "last_update": "2024-08-15 07:49:21",
         "required_features": [
-            "definitions/certificate",
             "normalize/acl",
+            "definitions/certificate",
             "normalize/ixVolume"
         ],
         "human_version": "4.9.1.1_1.2.12",
