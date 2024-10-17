@@ -1836,7 +1836,7 @@
         "supported": true,
         "healthy_error": null,
         "location": "/__w/charts/charts/charts/minio/1.7.24",
-        "last_update": "2024-10-14 07:54:20",
+        "last_update": "2024-02-13 11:43:58",
         "required_features": [
             "definitions/certificate",
             "normalize/ixVolume"
