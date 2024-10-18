@@ -4,10 +4,10 @@
         "supported": false,
         "healthy_error": null,
         "location": "/__w/charts/charts/charts/elastic-search/1.1.25",
-        "last_update": "2024-10-14 07:54:20",
+        "last_update": "2024-09-27 05:36:51",
         "required_features": [
-            "definitions/certificate",
             "normalize/ixVolume",
+            "definitions/certificate",
             "normalize/acl"
         ],
         "human_version": "8.15.2_1.1.25",
