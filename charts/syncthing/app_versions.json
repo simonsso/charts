@@ -6,8 +6,8 @@
         "location": "/__w/charts/charts/charts/syncthing/2.0.12",
         "last_update": "2024-10-21 12:56:04",
         "required_features": [
-            "normalize/ixVolume",
-            "normalize/acl"
+            "normalize/acl",
+            "normalize/ixVolume"
         ],
         "human_version": "1.28.0_2.0.12",
         "version": "2.0.12",
@@ -1171,7 +1171,7 @@
         "supported": true,
         "healthy_error": null,
         "location": "/__w/charts/charts/charts/syncthing/1.0.42",
-        "last_update": "2024-10-21 12:54:27",
+        "last_update": "2024-02-19 11:57:46",
         "required_features": [
             "validations/lockedHostPath",
             "normalize/ixVolume"
