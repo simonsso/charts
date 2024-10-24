@@ -4,7 +4,7 @@
         "supported": true,
         "healthy_error": null,
         "location": "/__w/charts/charts/community/jellyseerr/1.0.25",
-        "last_update": "2024-10-23 11:53:52",
+        "last_update": "2024-10-21 12:56:04",
         "required_features": [
             "normalize/ixVolume",
             "definitions/timezone"

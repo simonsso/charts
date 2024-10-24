@@ -4,7 +4,7 @@
         "supported": false,
         "healthy_error": null,
         "location": "/__w/charts/charts/community/wordpress/1.2.12",
-        "last_update": "2024-10-23 11:53:52",
+        "last_update": "2024-09-12 11:07:02",
         "required_features": [
             "normalize/ixVolume",
             "normalize/acl"
