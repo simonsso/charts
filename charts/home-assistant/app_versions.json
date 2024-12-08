@@ -4,7 +4,7 @@
         "supported": false,
         "healthy_error": null,
         "location": "/__w/charts/charts/charts/home-assistant/2.0.53",
-        "last_update": "2024-12-04 15:18:52",
+        "last_update": "2024-11-25 21:12:09",
         "required_features": [
             "normalize/acl",
             "definitions/timezone",
@@ -2101,7 +2101,7 @@
         "supported": true,
         "healthy_error": null,
         "location": "/__w/charts/charts/charts/home-assistant/1.0.130",
-        "last_update": "2024-12-04 15:18:52",
+        "last_update": "2024-01-19 12:10:17",
         "required_features": [
             "definitions/timezone",
             "normalize/ixVolume"
