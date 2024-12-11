@@ -4,7 +4,7 @@
         "supported": false,
         "healthy_error": null,
         "location": "/__w/charts/charts/community/grafana/1.2.22",
-        "last_update": "2024-12-04 15:18:52",
+        "last_update": "2024-11-25 21:12:09",
         "required_features": [
             "definitions/certificate",
             "normalize/ixVolume",
