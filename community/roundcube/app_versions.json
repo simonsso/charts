@@ -4,7 +4,7 @@
         "supported": false,
         "healthy_error": null,
         "location": "/__w/charts/charts/community/roundcube/1.0.6",
-        "last_update": "2024-12-18 15:06:44",
+        "last_update": "2024-09-03 06:00:18",
         "required_features": [
             "normalize/ixVolume",
             "normalize/acl"

@@ -4,7 +4,7 @@
         "supported": false,
         "healthy_error": null,
         "location": "/__w/charts/charts/community/netbootxyz/1.0.9",
-        "last_update": "2024-12-18 15:06:44",
+        "last_update": "2024-10-25 13:39:33",
         "required_features": [
             "definitions/timezone",
             "normalize/ixVolume",
