@@ -4,7 +4,7 @@
         "supported": false,
         "healthy_error": null,
         "location": "/__w/charts/charts/community/bazarr/1.2.14",
-        "last_update": "2025-01-03 13:04:25",
+        "last_update": "2025-01-02 10:39:26",
         "required_features": [
             "normalize/ixVolume",
             "normalize/acl"
