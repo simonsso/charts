@@ -4,11 +4,11 @@
         "supported": false,
         "healthy_error": null,
         "location": "/__w/charts/charts/community/netbootxyz/1.0.11",
-        "last_update": "2025-02-04 15:56:09",
+        "last_update": "2025-02-03 19:45:16",
         "required_features": [
-            "normalize/acl",
+            "definitions/timezone",
             "normalize/ixVolume",
-            "definitions/timezone"
+            "normalize/acl"
         ],
         "human_version": "0.7.4.2_1.0.11",
         "version": "1.0.11",

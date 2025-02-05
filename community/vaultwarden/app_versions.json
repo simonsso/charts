@@ -6,10 +6,10 @@
         "location": "/__w/charts/charts/community/vaultwarden/1.1.23",
         "last_update": "2025-02-04 15:57:41",
         "required_features": [
-            "definitions/certificate",
-            "normalize/acl",
+            "definitions/timezone",
             "normalize/ixVolume",
-            "definitions/timezone"
+            "definitions/certificate",
+            "normalize/acl"
         ],
         "human_version": "1.33.1_1.1.23",
         "version": "1.1.23",
