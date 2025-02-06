@@ -6,10 +6,10 @@
         "location": "/__w/charts/charts/community/n8n/1.2.107",
         "last_update": "2025-02-05 12:51:15",
         "required_features": [
-            "definitions/nodeIP",
-            "normalize/acl",
             "normalize/ixVolume",
-            "definitions/certificate"
+            "normalize/acl",
+            "definitions/certificate",
+            "definitions/nodeIP"
         ],
         "human_version": "1.77.2_1.2.107",
         "version": "1.2.107",
