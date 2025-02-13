@@ -4,7 +4,7 @@
         "supported": false,
         "healthy_error": null,
         "location": "/__w/charts/charts/community/searxng/1.2.30",
-        "last_update": "2025-02-13 12:40:21",
+        "last_update": "2025-01-02 10:39:26",
         "required_features": [
             "normalize/ixVolume",
             "normalize/acl"

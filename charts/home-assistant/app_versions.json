@@ -2101,7 +2101,7 @@
         "supported": true,
         "healthy_error": null,
         "location": "/__w/charts/charts/charts/home-assistant/1.0.130",
-        "last_update": "2025-02-13 12:40:21",
+        "last_update": "2024-01-19 12:10:17",
         "required_features": [
             "normalize/ixVolume",
             "definitions/timezone"

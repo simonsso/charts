@@ -4,11 +4,11 @@
         "supported": false,
         "healthy_error": null,
         "location": "/__w/charts/charts/community/jellyfin/1.3.11",
-        "last_update": "2025-02-13 12:40:21",
+        "last_update": "2025-01-27 17:47:33",
         "required_features": [
+            "definitions/gpuConfiguration",
             "normalize/ixVolume",
             "definitions/timezone",
-            "definitions/gpuConfiguration",
             "normalize/acl"
         ],
         "human_version": "10.10.5_1.3.11",
