@@ -6,8 +6,8 @@
         "location": "/__w/charts/charts/charts/netdata/2.0.31",
         "last_update": "2025-02-13 12:57:30",
         "required_features": [
-            "normalize/ixVolume",
-            "normalize/acl"
+            "normalize/acl",
+            "normalize/ixVolume"
         ],
         "human_version": "v2.2.5_2.0.31",
         "version": "2.0.31",
@@ -1730,7 +1730,7 @@
         "supported": true,
         "healthy_error": null,
         "location": "/__w/charts/charts/charts/netdata/1.0.40",
-        "last_update": "2025-02-13 12:40:21",
+        "last_update": "2024-02-16 09:21:47",
         "required_features": [
             "normalize/ixVolume"
         ],

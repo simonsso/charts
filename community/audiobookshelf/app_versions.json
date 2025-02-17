@@ -6,9 +6,9 @@
         "location": "/__w/charts/charts/community/audiobookshelf/1.0.28",
         "last_update": "2025-02-13 12:57:30",
         "required_features": [
-            "normalize/ixVolume",
             "definitions/timezone",
-            "normalize/acl"
+            "normalize/acl",
+            "normalize/ixVolume"
         ],
         "human_version": "2.19.2_1.0.28",
         "version": "1.0.28",
