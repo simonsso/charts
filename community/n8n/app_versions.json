@@ -6,9 +6,9 @@
         "location": "/__w/charts/charts/community/n8n/1.2.110",
         "last_update": "2025-02-21 12:29:18",
         "required_features": [
+            "normalize/ixVolume",
             "normalize/acl",
             "definitions/certificate",
-            "normalize/ixVolume",
             "definitions/nodeIP"
         ],
         "human_version": "1.80.1_1.2.110",
