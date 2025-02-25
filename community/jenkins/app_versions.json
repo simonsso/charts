@@ -4,11 +4,11 @@
         "supported": false,
         "healthy_error": null,
         "location": "/__w/charts/charts/community/jenkins/1.2.19",
-        "last_update": "2025-02-25 16:09:26",
+        "last_update": "2025-02-10 11:35:38",
         "required_features": [
-            "definitions/certificate",
             "definitions/timezone",
             "normalize/acl",
+            "definitions/certificate",
             "normalize/ixVolume"
         ],
         "human_version": "2.492.1_1.2.19",
