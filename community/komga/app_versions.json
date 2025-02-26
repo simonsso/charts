@@ -4,10 +4,10 @@
         "supported": false,
         "healthy_error": null,
         "location": "/__w/charts/charts/community/komga/1.2.25",
-        "last_update": "2025-02-26 11:47:25",
+        "last_update": "2025-02-20 16:15:06",
         "required_features": [
-            "normalize/acl",
             "normalize/ixVolume",
+            "normalize/acl",
             "definitions/timezone"
         ],
         "human_version": "1.20.0_1.2.25",
