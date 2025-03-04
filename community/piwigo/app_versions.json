@@ -4,7 +4,7 @@
         "supported": false,
         "healthy_error": null,
         "location": "/__w/charts/charts/community/piwigo/1.2.11",
-        "last_update": "2025-03-04 12:35:51",
+        "last_update": "2025-02-24 08:07:09",
         "required_features": [
             "normalize/ixVolume",
             "normalize/acl"
