@@ -4,7 +4,7 @@
         "supported": false,
         "healthy_error": null,
         "location": "/__w/charts/charts/community/immich/4.0.23",
-        "last_update": "2025-03-06 08:26:26",
+        "last_update": "2024-10-30 16:55:54",
         "required_features": [
             "definitions/gpuConfiguration",
             "definitions/timezone",
